@@ -1,4 +1,4 @@
-# EcoFund
+# EcoFund1
 
 The first ecofund excercise.
 
