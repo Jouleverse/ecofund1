@@ -2,7 +2,7 @@
 
 The first ecofund excercise.
 
-多签钱包(6/7)：0x50fe8f7cf122CFa689A634510C1b869E790f9760
+多签钱包(5/7)：0x50fe8f7cf122CFa689A634510C1b869E790f9760
 
 多签人：
 \# | who | role@core | signer address | confirmed?
